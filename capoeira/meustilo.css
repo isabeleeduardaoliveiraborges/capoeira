@@ -1,0 +1,75 @@
+#pagina-historia {
+  background-image: url('img/uee.avif'); /* troque pelo nome correto */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#pagina-mapa {
+  background-image: url('img/fundo-mapa.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#pagina-confederacao {
+  background-image: url('img/fundo-confederacao.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.centralizado {
+ 
+  padding: 40px 20px;
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  border-radius: 12px;
+}
+
+section {
+  margin-bottom: 60px;
+}
+
+h2 {
+  font-size: 28px;
+  margin-bottom: 15px;
+  color: #000000;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.6;
+  color: #000000;
+}
+
+footer {
+  text-align: center;
+  padding: 30px;
+ 
+  color: rgb(5, 5, 5);
+}
+
+footer a {
+  color: #000000;
+  text-decoration: none;
+  margin: 0 10px;
+}
+    .academia {
+        border: 1px solid #000000;
+        padding: 10px;
+        margin: 10px;}
+
+.centralizado {text-align: center;
+
+}
+.imagem-topo {
+  width: 100%;
+  max-height: 300px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 30px;
+}
+
+
